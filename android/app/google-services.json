@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896813985523",
+    "project_id": "edonation-6a7c7",
+    "storage_bucket": "edonation-6a7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896813985523:android:7424485b4c1cb419e09186",
+        "android_client_info": {
+          "package_name": "com.edonation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvxTEYdADHFp96-HnVL_czTg-qYbBGuRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
